@@ -1,12 +1,31 @@
+  <img width="100%" src="https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/cover.png"  />
+  
 
-![Logo](https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/cover.png)
 
-# JAGA MENTAL App  
+# 📱 JAGA MENTAL App  
 
-![Mental Health Matters](https://img.shields.io/badge/Mental%20Health-Matters-4caf50)  
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![Version](https://img.shields.io/badge/version-1.0-blue)  
-![License](https://img.shields.io/badge/license-MIT-orange)  
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/ss/home.png"  />
+
+  <img height="400" src="https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/ss/profile.png"  />
+
+  <img height="400" src="https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/ss/journal.png"  />
+  </div>
+  
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
 
 ## About the Project
 
