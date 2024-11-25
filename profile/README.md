@@ -1,3 +1,6 @@
+
+![Logo](https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/cover.png)
+
 # JAGA MENTAL App  
 
 ![Mental Health Matters](https://img.shields.io/badge/Mental%20Health-Matters-4caf50)  
