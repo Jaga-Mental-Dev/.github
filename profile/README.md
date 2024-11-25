@@ -1,4 +1,4 @@
-# GenZ MoodCare App  
+# JAGA MENTAL App  
 
 ![Mental Health Matters](https://img.shields.io/badge/Mental%20Health-Matters-4caf50)  
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
