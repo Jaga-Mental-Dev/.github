@@ -12,21 +12,6 @@
   <img height="400" src="https://raw.githubusercontent.com/Jaga-Mental-Dev/.github/main/ss/journal.png"  />
   </div>
   
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
-
-
 ## About the Project
 
 Mental health issues among Gen Z in Indonesia have been on the rise, with limited access to services tailored to their needs. Our team identified this gap and developed an innovative solution combining **machine learning**, **mobile development**, and **cloud computing** to empower users in managing their mental health. By leveraging technology, we aim to help users independently understand their mood patterns and improve their overall well-being.
