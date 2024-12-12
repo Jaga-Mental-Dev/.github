@@ -18,6 +18,16 @@ Mental health issues among Gen Z in Indonesia have been on the rise, with limite
 
 ---
 
+## 🧑‍💻 Project Repositories
+
+| Team               | Project Name | Repository Link                                                                |            
+|--------------------|--------------|--------------------------------------------------------------------------------|
+| Cloud Computing    | Jaga Mental Backend                         | [Cloud Computing Repo](https://github.com/Jaga-Mental-Dev/jaga-mental-backend)                |
+| Mobile Development | Jaga Mental Mobile                          | [Mobile Development Repo](https://github.com/Jaga-Mental-Dev/jaga-mental-mobile)              |
+| Machine Learning   | Text Emotion Model                          | [Machine Learning Repo](https://github.com/Jaga-Mental-Dev/Text_Emotion_Model)                |
+| Machine Learning   | Face Expression Recognition Model           | [Machine Learning Repo](https://github.com/Jaga-Mental-Dev/face-expression-recognition)        |
+---
+
 ## 🧩 **Project Highlights**
 
 ### 🚀 How We Got Here
